@@ -1,0 +1,16 @@
+AGLCOM = DOS async routines by me (AGL); they work rather well.
+
+I wrote this stuff in 1987
+It's a neat exercise in low-level coding, which I've always loved.
+Interrupt driven serial drivers, basically.
+On MS/PC-DOS, interacting with the 8250 and 16550 UARTs.
+https://en.wikipedia.org/wiki/16550_UART
+The 16550 had a 16 byte FIFO, which enabled us to get the higher
+speeds that modems were slowly starting to support.
+With the correct software, that is. Hence this code.
+
+Now, of course, it's just for historical interest.
+But I'm pretty pleased with my code from back then. I was 18.
+
+Old contact details are currently still in the source files.
+Ignore all that.  arjen (at) lentz (dot) com (dot) au
